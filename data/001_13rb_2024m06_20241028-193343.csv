@@ -1,0 +1,991 @@
+"Month";"Price component";"Type of consumer";"Price (c/kWh)"
+"2008M01";"Total price";"Household customer, annual consumption < 1 000 kW";..
+"2008M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";..
+"2008M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";..
+"2008M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";..
+"2008M01";"Total price";"Household customer, annual consumption > 15 000 kWh";..
+"2008M02";"Total price";"Household customer, annual consumption < 1 000 kW";..
+"2008M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";..
+"2008M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";..
+"2008M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";..
+"2008M02";"Total price";"Household customer, annual consumption > 15 000 kWh";..
+"2008M03";"Total price";"Household customer, annual consumption < 1 000 kW";..
+"2008M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";..
+"2008M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";..
+"2008M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";..
+"2008M03";"Total price";"Household customer, annual consumption > 15 000 kWh";..
+"2008M04";"Total price";"Household customer, annual consumption < 1 000 kW";..
+"2008M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";..
+"2008M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";..
+"2008M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";..
+"2008M04";"Total price";"Household customer, annual consumption > 15 000 kWh";..
+"2008M05";"Total price";"Household customer, annual consumption < 1 000 kW";..
+"2008M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";..
+"2008M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";..
+"2008M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";..
+"2008M05";"Total price";"Household customer, annual consumption > 15 000 kWh";..
+"2008M06";"Total price";"Household customer, annual consumption < 1 000 kW";..
+"2008M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";..
+"2008M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";..
+"2008M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";..
+"2008M06";"Total price";"Household customer, annual consumption > 15 000 kWh";..
+"2008M07";"Total price";"Household customer, annual consumption < 1 000 kW";..
+"2008M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";..
+"2008M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";..
+"2008M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";..
+"2008M07";"Total price";"Household customer, annual consumption > 15 000 kWh";..
+"2008M08";"Total price";"Household customer, annual consumption < 1 000 kW";..
+"2008M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";..
+"2008M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";..
+"2008M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";..
+"2008M08";"Total price";"Household customer, annual consumption > 15 000 kWh";..
+"2008M09";"Total price";"Household customer, annual consumption < 1 000 kW";..
+"2008M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";..
+"2008M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";..
+"2008M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";..
+"2008M09";"Total price";"Household customer, annual consumption > 15 000 kWh";..
+"2008M10";"Total price";"Household customer, annual consumption < 1 000 kW";..
+"2008M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";..
+"2008M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";..
+"2008M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";..
+"2008M10";"Total price";"Household customer, annual consumption > 15 000 kWh";..
+"2008M11";"Total price";"Household customer, annual consumption < 1 000 kW";..
+"2008M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";..
+"2008M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";..
+"2008M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";..
+"2008M11";"Total price";"Household customer, annual consumption > 15 000 kWh";..
+"2008M12";"Total price";"Household customer, annual consumption < 1 000 kW";..
+"2008M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";..
+"2008M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";..
+"2008M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";..
+"2008M12";"Total price";"Household customer, annual consumption > 15 000 kWh";..
+"2009M01";"Total price";"Household customer, annual consumption < 1 000 kW";16.817
+"2009M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";13.937
+"2009M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.019
+"2009M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.273
+"2009M01";"Total price";"Household customer, annual consumption > 15 000 kWh";10.032
+"2009M02";"Total price";"Household customer, annual consumption < 1 000 kW";16.626
+"2009M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.064
+"2009M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.153
+"2009M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.341
+"2009M02";"Total price";"Household customer, annual consumption > 15 000 kWh";10.073
+"2009M03";"Total price";"Household customer, annual consumption < 1 000 kW";17.538
+"2009M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.598
+"2009M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.466
+"2009M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.427
+"2009M03";"Total price";"Household customer, annual consumption > 15 000 kWh";10.118
+"2009M04";"Total price";"Household customer, annual consumption < 1 000 kW";17.080
+"2009M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.494
+"2009M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.286
+"2009M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.233
+"2009M04";"Total price";"Household customer, annual consumption > 15 000 kWh";9.961
+"2009M05";"Total price";"Household customer, annual consumption < 1 000 kW";17.349
+"2009M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.433
+"2009M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.214
+"2009M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.222
+"2009M05";"Total price";"Household customer, annual consumption > 15 000 kWh";9.950
+"2009M06";"Total price";"Household customer, annual consumption < 1 000 kW";17.398
+"2009M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.482
+"2009M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.165
+"2009M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.222
+"2009M06";"Total price";"Household customer, annual consumption > 15 000 kWh";9.950
+"2009M07";"Total price";"Household customer, annual consumption < 1 000 kW";17.616
+"2009M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.749
+"2009M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.437
+"2009M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.392
+"2009M07";"Total price";"Household customer, annual consumption > 15 000 kWh";10.049
+"2009M08";"Total price";"Household customer, annual consumption < 1 000 kW";17.617
+"2009M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.714
+"2009M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.377
+"2009M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.331
+"2009M08";"Total price";"Household customer, annual consumption > 15 000 kWh";10.000
+"2009M09";"Total price";"Household customer, annual consumption < 1 000 kW";17.430
+"2009M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.526
+"2009M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.157
+"2009M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.139
+"2009M09";"Total price";"Household customer, annual consumption > 15 000 kWh";9.878
+"2009M10";"Total price";"Household customer, annual consumption < 1 000 kW";16.975
+"2009M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.144
+"2009M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.018
+"2009M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.180
+"2009M10";"Total price";"Household customer, annual consumption > 15 000 kWh";9.907
+"2009M11";"Total price";"Household customer, annual consumption < 1 000 kW";17.058
+"2009M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.143
+"2009M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.018
+"2009M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.181
+"2009M11";"Total price";"Household customer, annual consumption > 15 000 kWh";9.920
+"2009M12";"Total price";"Household customer, annual consumption < 1 000 kW";17.066
+"2009M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.211
+"2009M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.093
+"2009M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.247
+"2009M12";"Total price";"Household customer, annual consumption > 15 000 kWh";9.993
+"2010M01";"Total price";"Household customer, annual consumption < 1 000 kW";17.239
+"2010M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.470
+"2010M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.278
+"2010M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.385
+"2010M01";"Total price";"Household customer, annual consumption > 15 000 kWh";10.097
+"2010M02";"Total price";"Household customer, annual consumption < 1 000 kW";17.628
+"2010M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.761
+"2010M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.502
+"2010M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.538
+"2010M02";"Total price";"Household customer, annual consumption > 15 000 kWh";10.234
+"2010M03";"Total price";"Household customer, annual consumption < 1 000 kW";17.596
+"2010M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.707
+"2010M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.431
+"2010M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.457
+"2010M03";"Total price";"Household customer, annual consumption > 15 000 kWh";10.157
+"2010M04";"Total price";"Household customer, annual consumption < 1 000 kW";17.756
+"2010M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.759
+"2010M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.446
+"2010M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.447
+"2010M04";"Total price";"Household customer, annual consumption > 15 000 kWh";10.171
+"2010M05";"Total price";"Household customer, annual consumption < 1 000 kW";17.898
+"2010M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";14.832
+"2010M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.520
+"2010M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.527
+"2010M05";"Total price";"Household customer, annual consumption > 15 000 kWh";10.213
+"2010M06";"Total price";"Household customer, annual consumption < 1 000 kW";18.130
+"2010M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";15.003
+"2010M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.632
+"2010M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.612
+"2010M06";"Total price";"Household customer, annual consumption > 15 000 kWh";10.296
+"2010M07";"Total price";"Household customer, annual consumption < 1 000 kW";18.520
+"2010M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";15.412
+"2010M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.980
+"2010M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.807
+"2010M07";"Total price";"Household customer, annual consumption > 15 000 kWh";10.445
+"2010M08";"Total price";"Household customer, annual consumption < 1 000 kW";18.201
+"2010M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";15.184
+"2010M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";13.805
+"2010M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.726
+"2010M08";"Total price";"Household customer, annual consumption > 15 000 kWh";10.422
+"2010M09";"Total price";"Household customer, annual consumption < 1 000 kW";18.220
+"2010M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";15.388
+"2010M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";14.018
+"2010M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.832
+"2010M09";"Total price";"Household customer, annual consumption > 15 000 kWh";10.535
+"2010M10";"Total price";"Household customer, annual consumption < 1 000 kW";18.297
+"2010M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";15.378
+"2010M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";14.031
+"2010M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.844
+"2010M10";"Total price";"Household customer, annual consumption > 15 000 kWh";10.514
+"2010M11";"Total price";"Household customer, annual consumption < 1 000 kW";18.547
+"2010M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";15.498
+"2010M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";14.089
+"2010M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";11.903
+"2010M11";"Total price";"Household customer, annual consumption > 15 000 kWh";10.578
+"2010M12";"Total price";"Household customer, annual consumption < 1 000 kW";18.522
+"2010M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";15.637
+"2010M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";14.241
+"2010M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";12.054
+"2010M12";"Total price";"Household customer, annual consumption > 15 000 kWh";10.737
+"2011M01";"Total price";"Household customer, annual consumption < 1 000 kW";19.802
+"2011M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";16.891
+"2011M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.471
+"2011M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.259
+"2011M01";"Total price";"Household customer, annual consumption > 15 000 kWh";11.958
+"2011M02";"Total price";"Household customer, annual consumption < 1 000 kW";20.127
+"2011M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.108
+"2011M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.635
+"2011M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.313
+"2011M02";"Total price";"Household customer, annual consumption > 15 000 kWh";11.994
+"2011M03";"Total price";"Household customer, annual consumption < 1 000 kW";20.145
+"2011M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.162
+"2011M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.738
+"2011M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.447
+"2011M03";"Total price";"Household customer, annual consumption > 15 000 kWh";12.069
+"2011M04";"Total price";"Household customer, annual consumption < 1 000 kW";20.201
+"2011M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.187
+"2011M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.750
+"2011M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.450
+"2011M04";"Total price";"Household customer, annual consumption > 15 000 kWh";12.086
+"2011M05";"Total price";"Household customer, annual consumption < 1 000 kW";20.184
+"2011M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.253
+"2011M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.784
+"2011M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.487
+"2011M05";"Total price";"Household customer, annual consumption > 15 000 kWh";12.114
+"2011M06";"Total price";"Household customer, annual consumption < 1 000 kW";20.086
+"2011M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.321
+"2011M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.790
+"2011M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.489
+"2011M06";"Total price";"Household customer, annual consumption > 15 000 kWh";12.166
+"2011M07";"Total price";"Household customer, annual consumption < 1 000 kW";20.703
+"2011M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.808
+"2011M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.190
+"2011M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.847
+"2011M07";"Total price";"Household customer, annual consumption > 15 000 kWh";12.344
+"2011M08";"Total price";"Household customer, annual consumption < 1 000 kW";20.761
+"2011M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.546
+"2011M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.990
+"2011M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.698
+"2011M08";"Total price";"Household customer, annual consumption > 15 000 kWh";12.274
+"2011M09";"Total price";"Household customer, annual consumption < 1 000 kW";20.625
+"2011M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.451
+"2011M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.929
+"2011M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.651
+"2011M09";"Total price";"Household customer, annual consumption > 15 000 kWh";12.268
+"2011M10";"Total price";"Household customer, annual consumption < 1 000 kW";20.588
+"2011M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.442
+"2011M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.871
+"2011M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.645
+"2011M10";"Total price";"Household customer, annual consumption > 15 000 kWh";12.276
+"2011M11";"Total price";"Household customer, annual consumption < 1 000 kW";20.561
+"2011M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.416
+"2011M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.901
+"2011M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.633
+"2011M11";"Total price";"Household customer, annual consumption > 15 000 kWh";12.265
+"2011M12";"Total price";"Household customer, annual consumption < 1 000 kW";20.524
+"2011M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.397
+"2011M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.903
+"2011M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.684
+"2011M12";"Total price";"Household customer, annual consumption > 15 000 kWh";12.293
+"2012M01";"Total price";"Household customer, annual consumption < 1 000 kW";20.316
+"2012M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.338
+"2012M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.813
+"2012M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.546
+"2012M01";"Total price";"Household customer, annual consumption > 15 000 kWh";12.276
+"2012M02";"Total price";"Household customer, annual consumption < 1 000 kW";20.305
+"2012M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.426
+"2012M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.898
+"2012M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.640
+"2012M02";"Total price";"Household customer, annual consumption > 15 000 kWh";12.244
+"2012M03";"Total price";"Household customer, annual consumption < 1 000 kW";20.274
+"2012M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.204
+"2012M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.787
+"2012M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.628
+"2012M03";"Total price";"Household customer, annual consumption > 15 000 kWh";12.325
+"2012M04";"Total price";"Household customer, annual consumption < 1 000 kW";20.480
+"2012M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.106
+"2012M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.665
+"2012M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.472
+"2012M04";"Total price";"Household customer, annual consumption > 15 000 kWh";12.146
+"2012M05";"Total price";"Household customer, annual consumption < 1 000 kW";20.417
+"2012M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.180
+"2012M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.724
+"2012M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.537
+"2012M05";"Total price";"Household customer, annual consumption > 15 000 kWh";12.157
+"2012M06";"Total price";"Household customer, annual consumption < 1 000 kW";20.371
+"2012M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.174
+"2012M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.588
+"2012M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.365
+"2012M06";"Total price";"Household customer, annual consumption > 15 000 kWh";12.022
+"2012M07";"Total price";"Household customer, annual consumption < 1 000 kW";20.808
+"2012M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.440
+"2012M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.851
+"2012M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.645
+"2012M07";"Total price";"Household customer, annual consumption > 15 000 kWh";12.197
+"2012M08";"Total price";"Household customer, annual consumption < 1 000 kW";20.809
+"2012M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.430
+"2012M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.878
+"2012M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.638
+"2012M08";"Total price";"Household customer, annual consumption > 15 000 kWh";12.196
+"2012M09";"Total price";"Household customer, annual consumption < 1 000 kW";20.726
+"2012M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.506
+"2012M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.952
+"2012M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.730
+"2012M09";"Total price";"Household customer, annual consumption > 15 000 kWh";12.317
+"2012M10";"Total price";"Household customer, annual consumption < 1 000 kW";20.578
+"2012M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.371
+"2012M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.873
+"2012M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.707
+"2012M10";"Total price";"Household customer, annual consumption > 15 000 kWh";12.274
+"2012M11";"Total price";"Household customer, annual consumption < 1 000 kW";20.850
+"2012M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.312
+"2012M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.852
+"2012M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.661
+"2012M11";"Total price";"Household customer, annual consumption > 15 000 kWh";12.272
+"2012M12";"Total price";"Household customer, annual consumption < 1 000 kW";20.616
+"2012M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.015
+"2012M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.723
+"2012M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.591
+"2012M12";"Total price";"Household customer, annual consumption > 15 000 kWh";12.255
+"2013M01";"Total price";"Household customer, annual consumption < 1 000 kW";20.944
+"2013M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.697
+"2013M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.116
+"2013M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.795
+"2013M01";"Total price";"Household customer, annual consumption > 15 000 kWh";12.480
+"2013M02";"Total price";"Household customer, annual consumption < 1 000 kW";21.538
+"2013M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.854
+"2013M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.199
+"2013M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.868
+"2013M02";"Total price";"Household customer, annual consumption > 15 000 kWh";12.488
+"2013M03";"Total price";"Household customer, annual consumption < 1 000 kW";21.286
+"2013M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.687
+"2013M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.054
+"2013M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.755
+"2013M03";"Total price";"Household customer, annual consumption > 15 000 kWh";12.407
+"2013M04";"Total price";"Household customer, annual consumption < 1 000 kW";21.508
+"2013M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.673
+"2013M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.041
+"2013M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.732
+"2013M04";"Total price";"Household customer, annual consumption > 15 000 kWh";12.337
+"2013M05";"Total price";"Household customer, annual consumption < 1 000 kW";20.823
+"2013M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.660
+"2013M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.036
+"2013M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.718
+"2013M05";"Total price";"Household customer, annual consumption > 15 000 kWh";12.318
+"2013M06";"Total price";"Household customer, annual consumption < 1 000 kW";20.867
+"2013M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.735
+"2013M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.119
+"2013M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.788
+"2013M06";"Total price";"Household customer, annual consumption > 15 000 kWh";12.347
+"2013M07";"Total price";"Household customer, annual consumption < 1 000 kW";21.332
+"2013M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.753
+"2013M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.071
+"2013M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.732
+"2013M07";"Total price";"Household customer, annual consumption > 15 000 kWh";12.335
+"2013M08";"Total price";"Household customer, annual consumption < 1 000 kW";21.315
+"2013M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.790
+"2013M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.033
+"2013M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.688
+"2013M08";"Total price";"Household customer, annual consumption > 15 000 kWh";12.308
+"2013M09";"Total price";"Household customer, annual consumption < 1 000 kW";21.303
+"2013M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.589
+"2013M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.928
+"2013M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.589
+"2013M09";"Total price";"Household customer, annual consumption > 15 000 kWh";12.269
+"2013M10";"Total price";"Household customer, annual consumption < 1 000 kW";20.902
+"2013M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.420
+"2013M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.734
+"2013M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.429
+"2013M10";"Total price";"Household customer, annual consumption > 15 000 kWh";12.136
+"2013M11";"Total price";"Household customer, annual consumption < 1 000 kW";20.941
+"2013M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.387
+"2013M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.700
+"2013M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.394
+"2013M11";"Total price";"Household customer, annual consumption > 15 000 kWh";12.111
+"2013M12";"Total price";"Household customer, annual consumption < 1 000 kW";20.884
+"2013M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.327
+"2013M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.662
+"2013M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.390
+"2013M12";"Total price";"Household customer, annual consumption > 15 000 kWh";12.095
+"2014M01";"Total price";"Household customer, annual consumption < 1 000 kW";20.411
+"2014M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.584
+"2014M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.053
+"2014M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.752
+"2014M01";"Total price";"Household customer, annual consumption > 15 000 kWh";12.450
+"2014M02";"Total price";"Household customer, annual consumption < 1 000 kW";20.730
+"2014M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.778
+"2014M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.115
+"2014M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.736
+"2014M02";"Total price";"Household customer, annual consumption > 15 000 kWh";12.400
+"2014M03";"Total price";"Household customer, annual consumption < 1 000 kW";20.537
+"2014M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.561
+"2014M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.889
+"2014M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.520
+"2014M03";"Total price";"Household customer, annual consumption > 15 000 kWh";12.241
+"2014M04";"Total price";"Household customer, annual consumption < 1 000 kW";20.852
+"2014M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.603
+"2014M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.856
+"2014M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.467
+"2014M04";"Total price";"Household customer, annual consumption > 15 000 kWh";12.156
+"2014M05";"Total price";"Household customer, annual consumption < 1 000 kW";20.847
+"2014M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.573
+"2014M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.815
+"2014M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.416
+"2014M05";"Total price";"Household customer, annual consumption > 15 000 kWh";12.106
+"2014M06";"Total price";"Household customer, annual consumption < 1 000 kW";20.936
+"2014M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.650
+"2014M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.848
+"2014M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.419
+"2014M06";"Total price";"Household customer, annual consumption > 15 000 kWh";12.099
+"2014M07";"Total price";"Household customer, annual consumption < 1 000 kW";20.904
+"2014M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.531
+"2014M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.659
+"2014M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.213
+"2014M07";"Total price";"Household customer, annual consumption > 15 000 kWh";11.945
+"2014M08";"Total price";"Household customer, annual consumption < 1 000 kW";21.066
+"2014M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.520
+"2014M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.668
+"2014M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.250
+"2014M08";"Total price";"Household customer, annual consumption > 15 000 kWh";11.941
+"2014M09";"Total price";"Household customer, annual consumption < 1 000 kW";20.980
+"2014M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.608
+"2014M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.776
+"2014M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.328
+"2014M09";"Total price";"Household customer, annual consumption > 15 000 kWh";12.016
+"2014M10";"Total price";"Household customer, annual consumption < 1 000 kW";20.701
+"2014M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.489
+"2014M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.722
+"2014M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.296
+"2014M10";"Total price";"Household customer, annual consumption > 15 000 kWh";12.030
+"2014M11";"Total price";"Household customer, annual consumption < 1 000 kW";20.560
+"2014M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.460
+"2014M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.693
+"2014M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.304
+"2014M11";"Total price";"Household customer, annual consumption > 15 000 kWh";12.027
+"2014M12";"Total price";"Household customer, annual consumption < 1 000 kW";20.713
+"2014M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.340
+"2014M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.610
+"2014M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.271
+"2014M12";"Total price";"Household customer, annual consumption > 15 000 kWh";11.955
+"2015M01";"Total price";"Household customer, annual consumption < 1 000 kW";21.080
+"2015M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.757
+"2015M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.007
+"2015M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.638
+"2015M01";"Total price";"Household customer, annual consumption > 15 000 kWh";12.350
+"2015M02";"Total price";"Household customer, annual consumption < 1 000 kW";21.203
+"2015M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.756
+"2015M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.979
+"2015M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.590
+"2015M02";"Total price";"Household customer, annual consumption > 15 000 kWh";12.310
+"2015M03";"Total price";"Household customer, annual consumption < 1 000 kW";21.371
+"2015M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.614
+"2015M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.827
+"2015M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.469
+"2015M03";"Total price";"Household customer, annual consumption > 15 000 kWh";12.204
+"2015M04";"Total price";"Household customer, annual consumption < 1 000 kW";21.507
+"2015M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.626
+"2015M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.799
+"2015M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.416
+"2015M04";"Total price";"Household customer, annual consumption > 15 000 kWh";12.115
+"2015M05";"Total price";"Household customer, annual consumption < 1 000 kW";21.173
+"2015M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.539
+"2015M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.737
+"2015M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.341
+"2015M05";"Total price";"Household customer, annual consumption > 15 000 kWh";12.028
+"2015M06";"Total price";"Household customer, annual consumption < 1 000 kW";21.325
+"2015M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.580
+"2015M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.718
+"2015M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.266
+"2015M06";"Total price";"Household customer, annual consumption > 15 000 kWh";11.995
+"2015M07";"Total price";"Household customer, annual consumption < 1 000 kW";21.179
+"2015M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.533
+"2015M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.676
+"2015M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.257
+"2015M07";"Total price";"Household customer, annual consumption > 15 000 kWh";11.975
+"2015M08";"Total price";"Household customer, annual consumption < 1 000 kW";21.221
+"2015M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.525
+"2015M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.677
+"2015M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.277
+"2015M08";"Total price";"Household customer, annual consumption > 15 000 kWh";11.956
+"2015M09";"Total price";"Household customer, annual consumption < 1 000 kW";21.075
+"2015M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.516
+"2015M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.680
+"2015M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.253
+"2015M09";"Total price";"Household customer, annual consumption > 15 000 kWh";11.932
+"2015M10";"Total price";"Household customer, annual consumption < 1 000 kW";20.780
+"2015M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.432
+"2015M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.621
+"2015M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.212
+"2015M10";"Total price";"Household customer, annual consumption > 15 000 kWh";11.934
+"2015M11";"Total price";"Household customer, annual consumption < 1 000 kW";20.942
+"2015M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.383
+"2015M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.559
+"2015M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.150
+"2015M11";"Total price";"Household customer, annual consumption > 15 000 kWh";11.884
+"2015M12";"Total price";"Household customer, annual consumption < 1 000 kW";20.743
+"2015M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.321
+"2015M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.534
+"2015M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.126
+"2015M12";"Total price";"Household customer, annual consumption > 15 000 kWh";11.835
+"2016M01";"Total price";"Household customer, annual consumption < 1 000 kW";20.956
+"2016M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.422
+"2016M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.599
+"2016M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.142
+"2016M01";"Total price";"Household customer, annual consumption > 15 000 kWh";11.838
+"2016M02";"Total price";"Household customer, annual consumption < 1 000 kW";20.855
+"2016M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.433
+"2016M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.570
+"2016M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.068
+"2016M02";"Total price";"Household customer, annual consumption > 15 000 kWh";11.696
+"2016M03";"Total price";"Household customer, annual consumption < 1 000 kW";20.906
+"2016M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.583
+"2016M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.695
+"2016M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.156
+"2016M03";"Total price";"Household customer, annual consumption > 15 000 kWh";11.762
+"2016M04";"Total price";"Household customer, annual consumption < 1 000 kW";21.201
+"2016M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.729
+"2016M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.798
+"2016M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.185
+"2016M04";"Total price";"Household customer, annual consumption > 15 000 kWh";11.733
+"2016M05";"Total price";"Household customer, annual consumption < 1 000 kW";21.382
+"2016M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.762
+"2016M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.818
+"2016M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.167
+"2016M05";"Total price";"Household customer, annual consumption > 15 000 kWh";11.703
+"2016M06";"Total price";"Household customer, annual consumption < 1 000 kW";20.887
+"2016M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.539
+"2016M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.743
+"2016M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.179
+"2016M06";"Total price";"Household customer, annual consumption > 15 000 kWh";11.792
+"2016M07";"Total price";"Household customer, annual consumption < 1 000 kW";21.408
+"2016M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.762
+"2016M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.794
+"2016M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.143
+"2016M07";"Total price";"Household customer, annual consumption > 15 000 kWh";11.741
+"2016M08";"Total price";"Household customer, annual consumption < 1 000 kW";21.411
+"2016M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.766
+"2016M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.796
+"2016M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.118
+"2016M08";"Total price";"Household customer, annual consumption > 15 000 kWh";11.715
+"2016M09";"Total price";"Household customer, annual consumption < 1 000 kW";21.338
+"2016M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.730
+"2016M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.762
+"2016M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.137
+"2016M09";"Total price";"Household customer, annual consumption > 15 000 kWh";11.749
+"2016M10";"Total price";"Household customer, annual consumption < 1 000 kW";21.343
+"2016M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.760
+"2016M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.808
+"2016M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.175
+"2016M10";"Total price";"Household customer, annual consumption > 15 000 kWh";11.824
+"2016M11";"Total price";"Household customer, annual consumption < 1 000 kW";21.356
+"2016M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.722
+"2016M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.808
+"2016M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.212
+"2016M11";"Total price";"Household customer, annual consumption > 15 000 kWh";11.897
+"2016M12";"Total price";"Household customer, annual consumption < 1 000 kW";21.465
+"2016M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";17.881
+"2016M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";15.953
+"2016M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.291
+"2016M12";"Total price";"Household customer, annual consumption > 15 000 kWh";11.887
+"2017M01";"Total price";"Household customer, annual consumption < 1 000 kW";21.788
+"2017M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.068
+"2017M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.085
+"2017M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.353
+"2017M01";"Total price";"Household customer, annual consumption > 15 000 kWh";11.922
+"2017M02";"Total price";"Household customer, annual consumption < 1 000 kW";21.906
+"2017M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.124
+"2017M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.128
+"2017M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.369
+"2017M02";"Total price";"Household customer, annual consumption > 15 000 kWh";11.912
+"2017M03";"Total price";"Household customer, annual consumption < 1 000 kW";22.035
+"2017M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.253
+"2017M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.217
+"2017M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.381
+"2017M03";"Total price";"Household customer, annual consumption > 15 000 kWh";11.861
+"2017M04";"Total price";"Household customer, annual consumption < 1 000 kW";22.332
+"2017M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.401
+"2017M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.323
+"2017M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.418
+"2017M04";"Total price";"Household customer, annual consumption > 15 000 kWh";11.870
+"2017M05";"Total price";"Household customer, annual consumption < 1 000 kW";22.560
+"2017M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.493
+"2017M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.394
+"2017M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.448
+"2017M05";"Total price";"Household customer, annual consumption > 15 000 kWh";11.869
+"2017M06";"Total price";"Household customer, annual consumption < 1 000 kW";22.487
+"2017M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.544
+"2017M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.407
+"2017M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.430
+"2017M06";"Total price";"Household customer, annual consumption > 15 000 kWh";11.857
+"2017M07";"Total price";"Household customer, annual consumption < 1 000 kW";22.537
+"2017M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.556
+"2017M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.407
+"2017M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.442
+"2017M07";"Total price";"Household customer, annual consumption > 15 000 kWh";11.882
+"2017M08";"Total price";"Household customer, annual consumption < 1 000 kW";21.618
+"2017M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.704
+"2017M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.632
+"2017M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.593
+"2017M08";"Total price";"Household customer, annual consumption > 15 000 kWh";11.943
+"2017M09";"Total price";"Household customer, annual consumption < 1 000 kW";22.350
+"2017M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.592
+"2017M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.508
+"2017M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.518
+"2017M09";"Total price";"Household customer, annual consumption > 15 000 kWh";12.005
+"2017M10";"Total price";"Household customer, annual consumption < 1 000 kW";22.027
+"2017M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.456
+"2017M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.459
+"2017M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.481
+"2017M10";"Total price";"Household customer, annual consumption > 15 000 kWh";12.005
+"2017M11";"Total price";"Household customer, annual consumption < 1 000 kW";22.169
+"2017M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.499
+"2017M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.439
+"2017M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.459
+"2017M11";"Total price";"Household customer, annual consumption > 15 000 kWh";11.906
+"2017M12";"Total price";"Household customer, annual consumption < 1 000 kW";22.655
+"2017M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.464
+"2017M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.436
+"2017M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.474
+"2017M12";"Total price";"Household customer, annual consumption > 15 000 kWh";11.919
+"2018M01";"Total price";"Household customer, annual consumption < 1 000 kW";22.882
+"2018M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.616
+"2018M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.585
+"2018M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.595
+"2018M01";"Total price";"Household customer, annual consumption > 15 000 kWh";12.042
+"2018M02";"Total price";"Household customer, annual consumption < 1 000 kW";22.969
+"2018M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.679
+"2018M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.647
+"2018M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.645
+"2018M02";"Total price";"Household customer, annual consumption > 15 000 kWh";12.104
+"2018M03";"Total price";"Household customer, annual consumption < 1 000 kW";22.892
+"2018M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.664
+"2018M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.568
+"2018M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.612
+"2018M03";"Total price";"Household customer, annual consumption > 15 000 kWh";12.058
+"2018M04";"Total price";"Household customer, annual consumption < 1 000 kW";23.118
+"2018M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.802
+"2018M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.678
+"2018M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.667
+"2018M04";"Total price";"Household customer, annual consumption > 15 000 kWh";12.074
+"2018M05";"Total price";"Household customer, annual consumption < 1 000 kW";23.132
+"2018M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.829
+"2018M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.679
+"2018M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.668
+"2018M05";"Total price";"Household customer, annual consumption > 15 000 kWh";12.100
+"2018M06";"Total price";"Household customer, annual consumption < 1 000 kW";22.561
+"2018M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";18.940
+"2018M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";16.760
+"2018M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";13.702
+"2018M06";"Total price";"Household customer, annual consumption > 15 000 kWh";12.153
+"2018M07";"Total price";"Household customer, annual consumption < 1 000 kW";23.357
+"2018M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";19.550
+"2018M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.332
+"2018M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.123
+"2018M07";"Total price";"Household customer, annual consumption > 15 000 kWh";12.462
+"2018M08";"Total price";"Household customer, annual consumption < 1 000 kW";23.646
+"2018M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";19.678
+"2018M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.423
+"2018M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.245
+"2018M08";"Total price";"Household customer, annual consumption > 15 000 kWh";12.628
+"2018M09";"Total price";"Household customer, annual consumption < 1 000 kW";23.352
+"2018M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";19.632
+"2018M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.429
+"2018M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.280
+"2018M09";"Total price";"Household customer, annual consumption > 15 000 kWh";12.651
+"2018M10";"Total price";"Household customer, annual consumption < 1 000 kW";23.625
+"2018M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";19.756
+"2018M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.516
+"2018M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.317
+"2018M10";"Total price";"Household customer, annual consumption > 15 000 kWh";12.701
+"2018M11";"Total price";"Household customer, annual consumption < 1 000 kW";23.917
+"2018M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";19.974
+"2018M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.735
+"2018M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.513
+"2018M11";"Total price";"Household customer, annual consumption > 15 000 kWh";12.773
+"2018M12";"Total price";"Household customer, annual consumption < 1 000 kW";23.855
+"2018M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";19.949
+"2018M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.735
+"2018M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.562
+"2018M12";"Total price";"Household customer, annual consumption > 15 000 kWh";12.798
+"2019M01";"Total price";"Household customer, annual consumption < 1 000 kW";24.173
+"2019M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";19.969
+"2019M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.777
+"2019M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.674
+"2019M01";"Total price";"Household customer, annual consumption > 15 000 kWh";12.857
+"2019M02";"Total price";"Household customer, annual consumption < 1 000 kW";24.213
+"2019M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.146
+"2019M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.867
+"2019M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.726
+"2019M02";"Total price";"Household customer, annual consumption > 15 000 kWh";12.897
+"2019M03";"Total price";"Household customer, annual consumption < 1 000 kW";24.069
+"2019M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.151
+"2019M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.812
+"2019M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.673
+"2019M03";"Total price";"Household customer, annual consumption > 15 000 kWh";12.806
+"2019M04";"Total price";"Household customer, annual consumption < 1 000 kW";24.308
+"2019M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.414
+"2019M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.952
+"2019M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.797
+"2019M04";"Total price";"Household customer, annual consumption > 15 000 kWh";12.889
+"2019M05";"Total price";"Household customer, annual consumption < 1 000 kW";24.302
+"2019M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.272
+"2019M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.868
+"2019M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.694
+"2019M05";"Total price";"Household customer, annual consumption > 15 000 kWh";12.869
+"2019M06";"Total price";"Household customer, annual consumption < 1 000 kW";24.537
+"2019M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.346
+"2019M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.868
+"2019M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.657
+"2019M06";"Total price";"Household customer, annual consumption > 15 000 kWh";12.857
+"2019M07";"Total price";"Household customer, annual consumption < 1 000 kW";24.665
+"2019M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.660
+"2019M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.182
+"2019M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.906
+"2019M07";"Total price";"Household customer, annual consumption > 15 000 kWh";13.029
+"2019M08";"Total price";"Household customer, annual consumption < 1 000 kW";23.966
+"2019M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.729
+"2019M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.372
+"2019M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.041
+"2019M08";"Total price";"Household customer, annual consumption > 15 000 kWh";13.187
+"2019M09";"Total price";"Household customer, annual consumption < 1 000 kW";24.302
+"2019M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.892
+"2019M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.487
+"2019M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.168
+"2019M09";"Total price";"Household customer, annual consumption > 15 000 kWh";13.252
+"2019M10";"Total price";"Household customer, annual consumption < 1 000 kW";24.579
+"2019M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.921
+"2019M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.449
+"2019M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.119
+"2019M10";"Total price";"Household customer, annual consumption > 15 000 kWh";13.292
+"2019M11";"Total price";"Household customer, annual consumption < 1 000 kW";24.276
+"2019M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.791
+"2019M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.501
+"2019M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.185
+"2019M11";"Total price";"Household customer, annual consumption > 15 000 kWh";13.366
+"2019M12";"Total price";"Household customer, annual consumption < 1 000 kW";24.511
+"2019M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.754
+"2019M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.414
+"2019M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.111
+"2019M12";"Total price";"Household customer, annual consumption > 15 000 kWh";13.280
+"2020M01";"Total price";"Household customer, annual consumption < 1 000 kW";24.685
+"2020M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.791
+"2020M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.414
+"2020M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.111
+"2020M01";"Total price";"Household customer, annual consumption > 15 000 kWh";13.280
+"2020M02";"Total price";"Household customer, annual consumption < 1 000 kW";25.082
+"2020M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.915
+"2020M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.414
+"2020M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.037
+"2020M02";"Total price";"Household customer, annual consumption > 15 000 kWh";13.205
+"2020M03";"Total price";"Household customer, annual consumption < 1 000 kW";24.772
+"2020M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.704
+"2020M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.352
+"2020M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.024
+"2020M03";"Total price";"Household customer, annual consumption > 15 000 kWh";13.131
+"2020M04";"Total price";"Household customer, annual consumption < 1 000 kW";23.172
+"2020M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";19.998
+"2020M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.017
+"2020M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.838
+"2020M04";"Total price";"Household customer, annual consumption > 15 000 kWh";12.932
+"2020M05";"Total price";"Household customer, annual consumption < 1 000 kW";22.812
+"2020M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.047
+"2020M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.079
+"2020M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.875
+"2020M05";"Total price";"Household customer, annual consumption > 15 000 kWh";12.895
+"2020M06";"Total price";"Household customer, annual consumption < 1 000 kW";22.998
+"2020M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.134
+"2020M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.203
+"2020M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.937
+"2020M06";"Total price";"Household customer, annual consumption > 15 000 kWh";13.032
+"2020M07";"Total price";"Household customer, annual consumption < 1 000 kW";22.044
+"2020M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";19.725
+"2020M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";17.906
+"2020M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.751
+"2020M07";"Total price";"Household customer, annual consumption > 15 000 kWh";12.883
+"2020M08";"Total price";"Household customer, annual consumption < 1 000 kW";23.470
+"2020M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.233
+"2020M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.216
+"2020M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.975
+"2020M08";"Total price";"Household customer, annual consumption > 15 000 kWh";13.131
+"2020M09";"Total price";"Household customer, annual consumption < 1 000 kW";23.234
+"2020M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.109
+"2020M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.129
+"2020M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.913
+"2020M09";"Total price";"Household customer, annual consumption > 15 000 kWh";13.106
+"2020M10";"Total price";"Household customer, annual consumption < 1 000 kW";33.326
+"2020M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";30.288
+"2020M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";27.328
+"2020M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";21.491
+"2020M10";"Total price";"Household customer, annual consumption > 15 000 kWh";18.057
+"2020M11";"Total price";"Household customer, annual consumption < 1 000 kW";44.473
+"2020M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";40.778
+"2020M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";36.613
+"2020M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";28.094
+"2020M11";"Total price";"Household customer, annual consumption > 15 000 kWh";23.070
+"2020M12";"Total price";"Household customer, annual consumption < 1 000 kW";54.280
+"2020M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";50.982
+"2020M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";45.936
+"2020M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";34.809
+"2020M12";"Total price";"Household customer, annual consumption > 15 000 kWh";28.169
+"2021M01";"Total price";"Household customer, annual consumption < 1 000 kW";22.751
+"2021M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.011
+"2021M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.197
+"2021M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.158
+"2021M01";"Total price";"Household customer, annual consumption > 15 000 kWh";13.512
+"2021M02";"Total price";"Household customer, annual consumption < 1 000 kW";23.426
+"2021M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.239
+"2021M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.311
+"2021M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.257
+"2021M02";"Total price";"Household customer, annual consumption > 15 000 kWh";13.586
+"2021M03";"Total price";"Household customer, annual consumption < 1 000 kW";23.929
+"2021M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.519
+"2021M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.351
+"2021M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.153
+"2021M03";"Total price";"Household customer, annual consumption > 15 000 kWh";13.529
+"2021M04";"Total price";"Household customer, annual consumption < 1 000 kW";22.955
+"2021M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.140
+"2021M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.150
+"2021M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";14.960
+"2021M04";"Total price";"Household customer, annual consumption > 15 000 kWh";13.103
+"2021M05";"Total price";"Household customer, annual consumption < 1 000 kW";22.607
+"2021M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.127
+"2021M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.249
+"2021M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.133
+"2021M05";"Total price";"Household customer, annual consumption > 15 000 kWh";13.227
+"2021M06";"Total price";"Household customer, annual consumption < 1 000 kW";23.178
+"2021M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.475
+"2021M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.537
+"2021M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.334
+"2021M06";"Total price";"Household customer, annual consumption > 15 000 kWh";13.363
+"2021M07";"Total price";"Household customer, annual consumption < 1 000 kW";22.941
+"2021M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.659
+"2021M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.790
+"2021M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.607
+"2021M07";"Total price";"Household customer, annual consumption > 15 000 kWh";13.747
+"2021M08";"Total price";"Household customer, annual consumption < 1 000 kW";23.288
+"2021M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.771
+"2021M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.790
+"2021M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.558
+"2021M08";"Total price";"Household customer, annual consumption > 15 000 kWh";13.636
+"2021M09";"Total price";"Household customer, annual consumption < 1 000 kW";23.198
+"2021M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.780
+"2021M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.824
+"2021M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.736
+"2021M09";"Total price";"Household customer, annual consumption > 15 000 kWh";13.909
+"2021M10";"Total price";"Household customer, annual consumption < 1 000 kW";23.407
+"2021M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";20.765
+"2021M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";18.835
+"2021M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.607
+"2021M10";"Total price";"Household customer, annual consumption > 15 000 kWh";13.703
+"2021M11";"Total price";"Household customer, annual consumption < 1 000 kW";23.384
+"2021M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";21.251
+"2021M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";19.023
+"2021M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";15.821
+"2021M11";"Total price";"Household customer, annual consumption > 15 000 kWh";14.015
+"2021M12";"Total price";"Household customer, annual consumption < 1 000 kW";25.249
+"2021M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";21.615
+"2021M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";19.794
+"2021M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";16.908
+"2021M12";"Total price";"Household customer, annual consumption > 15 000 kWh";15.086
+"2022M01";"Total price";"Household customer, annual consumption < 1 000 kW";24.381
+"2022M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";21.578
+"2022M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";19.578
+"2022M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";16.267
+"2022M01";"Total price";"Household customer, annual consumption > 15 000 kWh";14.670
+"2022M02";"Total price";"Household customer, annual consumption < 1 000 kW";25.035
+"2022M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";21.935
+"2022M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";19.709
+"2022M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";16.390
+"2022M02";"Total price";"Household customer, annual consumption > 15 000 kWh";14.504
+"2022M03";"Total price";"Household customer, annual consumption < 1 000 kW";25.157
+"2022M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";22.342
+"2022M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";20.002
+"2022M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";16.638
+"2022M03";"Total price";"Household customer, annual consumption > 15 000 kWh";14.263
+"2022M04";"Total price";"Household customer, annual consumption < 1 000 kW";25.177
+"2022M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";22.182
+"2022M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";19.754
+"2022M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";16.397
+"2022M04";"Total price";"Household customer, annual consumption > 15 000 kWh";14.037
+"2022M05";"Total price";"Household customer, annual consumption < 1 000 kW";25.494
+"2022M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";22.898
+"2022M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";20.474
+"2022M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";16.831
+"2022M05";"Total price";"Household customer, annual consumption > 15 000 kWh";14.876
+"2022M06";"Total price";"Household customer, annual consumption < 1 000 kW";25.691
+"2022M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";23.470
+"2022M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";20.993
+"2022M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";17.094
+"2022M06";"Total price";"Household customer, annual consumption > 15 000 kWh";14.962
+"2022M07";"Total price";"Household customer, annual consumption < 1 000 kW";26.670
+"2022M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";24.479
+"2022M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";21.965
+"2022M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.032
+"2022M07";"Total price";"Household customer, annual consumption > 15 000 kWh";15.760
+"2022M08";"Total price";"Household customer, annual consumption < 1 000 kW";28.197
+"2022M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";25.650
+"2022M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";22.899
+"2022M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.580
+"2022M08";"Total price";"Household customer, annual consumption > 15 000 kWh";16.202
+"2022M09";"Total price";"Household customer, annual consumption < 1 000 kW";28.911
+"2022M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";26.121
+"2022M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";23.223
+"2022M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.910
+"2022M09";"Total price";"Household customer, annual consumption > 15 000 kWh";16.539
+"2022M10";"Total price";"Household customer, annual consumption < 1 000 kW";33.295
+"2022M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";30.702
+"2022M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";27.451
+"2022M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";22.616
+"2022M10";"Total price";"Household customer, annual consumption > 15 000 kWh";19.632
+"2022M11";"Total price";"Household customer, annual consumption < 1 000 kW";35.754
+"2022M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";32.383
+"2022M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";29.015
+"2022M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";23.945
+"2022M11";"Total price";"Household customer, annual consumption > 15 000 kWh";20.600
+"2022M12";"Total price";"Household customer, annual consumption < 1 000 kW";34.116
+"2022M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";31.969
+"2022M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";28.537
+"2022M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";23.326
+"2022M12";"Total price";"Household customer, annual consumption > 15 000 kWh";20.299
+"2023M01";"Total price";"Household customer, annual consumption < 1 000 kW";32.292
+"2023M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";30.697
+"2023M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";27.229
+"2023M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";22.064
+"2023M01";"Total price";"Household customer, annual consumption > 15 000 kWh";19.047
+"2023M02";"Total price";"Household customer, annual consumption < 1 000 kW";31.728
+"2023M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";30.252
+"2023M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";26.358
+"2023M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";21.110
+"2023M02";"Total price";"Household customer, annual consumption > 15 000 kWh";17.681
+"2023M03";"Total price";"Household customer, annual consumption < 1 000 kW";30.203
+"2023M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";29.309
+"2023M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";25.683
+"2023M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";20.509
+"2023M03";"Total price";"Household customer, annual consumption > 15 000 kWh";17.231
+"2023M04";"Total price";"Household customer, annual consumption < 1 000 kW";26.582
+"2023M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";25.735
+"2023M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";22.772
+"2023M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.681
+"2023M04";"Total price";"Household customer, annual consumption > 15 000 kWh";16.042
+"2023M05";"Total price";"Household customer, annual consumption < 1 000 kW";28.042
+"2023M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";27.261
+"2023M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";23.797
+"2023M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.891
+"2023M05";"Total price";"Household customer, annual consumption > 15 000 kWh";16.158
+"2023M06";"Total price";"Household customer, annual consumption < 1 000 kW";28.233
+"2023M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";27.377
+"2023M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";23.884
+"2023M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.936
+"2023M06";"Total price";"Household customer, annual consumption > 15 000 kWh";16.265
+"2023M07";"Total price";"Household customer, annual consumption < 1 000 kW";27.680
+"2023M07";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";26.800
+"2023M07";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";23.389
+"2023M07";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.673
+"2023M07";"Total price";"Household customer, annual consumption > 15 000 kWh";15.967
+"2023M08";"Total price";"Household customer, annual consumption < 1 000 kW";28.958
+"2023M08";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";27.948
+"2023M08";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";24.698
+"2023M08";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";20.151
+"2023M08";"Total price";"Household customer, annual consumption > 15 000 kWh";17.339
+"2023M09";"Total price";"Household customer, annual consumption < 1 000 kW";27.031
+"2023M09";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";26.374
+"2023M09";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";23.184
+"2023M09";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.615
+"2023M09";"Total price";"Household customer, annual consumption > 15 000 kWh";15.935
+"2023M10";"Total price";"Household customer, annual consumption < 1 000 kW";24.540
+"2023M10";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";24.484
+"2023M10";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";21.736
+"2023M10";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";17.653
+"2023M10";"Total price";"Household customer, annual consumption > 15 000 kWh";15.177
+"2023M11";"Total price";"Household customer, annual consumption < 1 000 kW";25.258
+"2023M11";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";24.938
+"2023M11";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";22.360
+"2023M11";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.404
+"2023M11";"Total price";"Household customer, annual consumption > 15 000 kWh";15.973
+"2023M12";"Total price";"Household customer, annual consumption < 1 000 kW";25.455
+"2023M12";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";25.123
+"2023M12";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";22.694
+"2023M12";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.951
+"2023M12";"Total price";"Household customer, annual consumption > 15 000 kWh";16.561
+"2024M01";"Total price";"Household customer, annual consumption < 1 000 kW";26.666
+"2024M01";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";26.206
+"2024M01";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";23.941
+"2024M01";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";20.296
+"2024M01";"Total price";"Household customer, annual consumption > 15 000 kWh";17.906
+"2024M02";"Total price";"Household customer, annual consumption < 1 000 kW";25.220
+"2024M02";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";24.670
+"2024M02";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";22.369
+"2024M02";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.644
+"2024M02";"Total price";"Household customer, annual consumption > 15 000 kWh";16.159
+"2024M03";"Total price";"Household customer, annual consumption < 1 000 kW";25.470
+"2024M03";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";24.870
+"2024M03";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";22.464
+"2024M03";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.624
+"2024M03";"Total price";"Household customer, annual consumption > 15 000 kWh";16.139
+"2024M04";"Total price";"Household customer, annual consumption < 1 000 kW";25.593
+"2024M04";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";24.913
+"2024M04";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";22.371
+"2024M04";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";18.225
+"2024M04";"Total price";"Household customer, annual consumption > 15 000 kWh";15.703
+"2024M05";"Total price";"Household customer, annual consumption < 1 000 kW";25.179
+"2024M05";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";24.489
+"2024M05";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";21.861
+"2024M05";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";17.694
+"2024M05";"Total price";"Household customer, annual consumption > 15 000 kWh";15.175
+"2024M06";"Total price";"Household customer, annual consumption < 1 000 kW";25.110
+"2024M06";"Total price";"Household customer, annual consumption 1 000 kWh - 2 499 kWh";24.050
+"2024M06";"Total price";"Household customer, annual consumption 2 500 kWh - 4 999 kWh";21.402
+"2024M06";"Total price";"Household customer, annual consumption 5 000 kWh - 15 000 kWh";17.385
+"2024M06";"Total price";"Household customer, annual consumption > 15 000 kWh";14.946
